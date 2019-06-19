@@ -31,7 +31,7 @@
     }
   },
   "dependencies": {
-    "appmetrics-dash": "^4.1.0",
+    "appmetrics-dash": "^5.0.0",
     "appmetrics-prometheus": "^2.0.0",
     "appmetrics-zipkin": "^1.1.1",
     "body-parser": "^1.18.3",
